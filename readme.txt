@@ -53,7 +53,7 @@ Ignored: - 8, 11, 14, 16, 178, 251: The logo's alt text accurately describes it,
          - 131, 184, 250, 276: Single-page site with no quotes or position-based instructions.
 
 4. How long, in hours, did it take you to complete this assignment?
-- It approximately took 6 hours to complete this assignment
+- It approximately took 7 hours to complete this assignment
 
 
 5. What online resources did you consult when completing this assignment? (list specific URLs, describe queries to Generative AI, or use of AI-based code completion)
